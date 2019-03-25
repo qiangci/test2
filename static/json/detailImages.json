@@ -1,0 +1,19 @@
+{
+    "data": [{
+        "imgName":"test1",
+        "img":"/static/imgs/test1.jpg"
+    },
+    {
+        "imgName":"test2",
+        "img":"/static/imgs/test2.jpg"
+    },
+    {
+        "imgName":"test3",
+        "img":"/static/imgs/test3.jpg"
+    },
+    {
+        "imgName":"test4",
+        "img":"/static/imgs/test4.jpg"
+    }],
+    "status":"1"
+}

@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "nameId":"zhaopengpeng",
+            "name":"赵鹏鹏",
+            "class":"2018级计算机科学与技术专业03班",
+            "title": "2018级计算机科学与技术专业03班赵鹏鹏的报名申请表",
+            "updateTime": "2018-03-19",
+            "reportId": "910982",
+            "path":"http://xxgc.sicau.edu.cn",
+            "state":"已忽略"
+        },
+        {
+            "nameId":"lixiaojing",
+            "name":"李晓静",
+            "class":"2017级计算机科学与技术专业02班",
+            "title": "2017级计算机科学与技术专业02班李晓静的报名申请表",
+            "updateTime": "2018-03-19",
+            "reportId": "919982",
+            "path":"http://xxgc.sicau.edu.cn",
+            "state":"已发送面试邀请"
+        },
+        {
+            "nameId":"zhaolei",
+            "name":"赵雷",
+            "class":"2018级计算机科学与技术专业01班",
+            "title": "2018级计算机科学与技术专业01班赵雷的报名申请表",
+            "updateTime": "2018-03-19",
+            "reportId": "914982",
+            "path":"http://xxgc.sicau.edu.cn",
+            "state":"已发送面试邀请"
+        },
+        {
+            "nameId":"liqian",
+            "name":"李倩",
+            "class":"2018级计算机科学与技术专业(教育)02班",
+            "title": "2018级计算机科学与技术专业(教育)02班李倩的报名申请表",
+            "updateTime": "2018-03-19",
+            "reportId": "930982",
+            "path":"http://xxgc.sicau.edu.cn",
+            "state":"已发送面试邀请"
+        },
+        {
+            "nameId":"chaixin",
+            "name":"柴鑫",
+            "class":"2018级计算机科学与技术专业01班",
+            "title": "2018级计算机科学与技术专业01班柴鑫的报名申请表",
+            "updateTime": "2018-03-19",
+            "reportId": "920982",
+            "path":"http://xxgc.sicau.edu.cn",
+            "state":"已发送面试邀请"
+        }
+    ],
+    "status":"1"
+}
