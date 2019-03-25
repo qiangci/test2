@@ -17,12 +17,12 @@ const config = {
   url: "http://127.0.0.1:9090/cd_cmd",
 
   /**登录 */
-  login: "/static/json/login.json?",
-  // login: "/login.vm?",
+  // login: "/static/json/login.json?",
+  login: "login.vm?",
 
   /**退出登录 */
   loginOut: "/static/json/login.json?",
-  // login: "/loginout.vm?",
+  // loginOut: "/loginout.vm?",
 
   /**发布报名信息 */
   addRecruitment: "/static/json/addRecruitment.json?",
@@ -75,7 +75,7 @@ const config = {
 const login = function(params, success, error) {
   let { userName, userPwd } = params;
   Util.ajax(
-    `${config.login}loginName=${userName}&password=${userPwd}`,
+    `${config.login}loginName=${userName}&passWord=${userPwd}`,
     // `${config.login}`,
     {},
     function(data) {
